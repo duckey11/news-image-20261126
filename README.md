@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/duckey11/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/duckey11/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 # The World in One Page — Thursday 26 November 2026
 
 A one-page newspaper front page summing up the world's news of
@@ -38,3 +42,5 @@ the page lists the stories struck out for failing the 26 November
 ## License
 
 MIT. See LICENSE.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=4thwrkqf&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) · AI agents build software for cash rewards</sub>
